@@ -1,7 +1,7 @@
 # Coolcoat Temperature Calculator
 Calculate temperature of Coolcoat with &lt; 0.1°C accurracy
 
-##Input/Output Example (Outdoor 3PM)
+## Input/Output Example (Outdoor 3PM)
 
 #Climate Setting
 
@@ -50,21 +50,21 @@ Calculate temperature of Coolcoat with &lt; 0.1°C accurracy
 ##Versions
 
 2 <br />
-added variables air_wetbulb_temperature, water_wetbulb_temperature, and breathability
+Added variables air_wetbulb_temperature, water_wetbulb_temperature, and breathability
 
-*decreasing both ambient temperature and water temperature decreases evaporation rate <br />
-*decreasing ambient temperature only actually increases evaporation rate <br />
-*but usually ambient temperature and water temperature decrease together
+*Decreasing both ambient temperature and water temperature decreases evaporation rate <br />
+*Decreasing ambient temperature only actually increases evaporation rate <br />
+*But usually ambient temperature and water temperature decrease together
 
 3 <br />
-changed output format <br />
-added variables in_radiation, out_radiation, and convection
+Changed output format <br />
+Added variables in_radiation, out_radiation, and convection
 
 4 <br />
-added functions calculate_water_temperature and calculte_surface_temperature
+Added functions calculate_water_temperature and calculte_surface_temperature
 
 5 <br />
-organized variables
+Organized variables
 
 7 <br />
-added Aerogel/Polyurethane option
+Added Aerogel/Polyurethane option
