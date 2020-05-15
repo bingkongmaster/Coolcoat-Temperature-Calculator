@@ -47,24 +47,24 @@ Calculate temperature of Coolcoat with &lt; 0.1°C accurracy
                   Evaporation Rate:  165.69379315420 (g/hr)
                           Duration:  1:50:52         (hr:min:sec)
 
-##Versions
+## Versions
 
-2 <br />
+2.2 <br />
 Added variables air_wetbulb_temperature, water_wetbulb_temperature, and breathability
 
 *Decreasing both ambient temperature and water temperature decreases evaporation rate <br />
 *Decreasing ambient temperature only actually increases evaporation rate <br />
 *But usually ambient temperature and water temperature decrease together
 
-3 <br />
+2.3 <br />
 Changed output format <br />
 Added variables in_radiation, out_radiation, and convection
 
-4 <br />
+2.4 <br />
 Added functions calculate_water_temperature and calculte_surface_temperature
 
-5 <br />
+2.5 <br />
 Organized variables
 
-7 <br />
+2.7 <br />
 Added Aerogel/Polyurethane option
